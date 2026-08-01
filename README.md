@@ -15,5 +15,5 @@ Currently contributing to **[OHIF Viewers](https://github.com/OHIF/Viewers)** (C
 `TypeScript` `JavaScript` `Angular` `React` `Node.js` `Java / Spring Boot` `GraphQL` `NgRx` `Nx Monorepo` `OHIF v3` `Cornerstone3D` `DICOM` `MySQL` `MongoDB` `AWS`
 
 **📫 Reach me**
-[LinkedIn](https://linkedin.com/in/harshika-chandvani-83a6b5202) · harshichandvani@gmail.com · https://www.harshikachandvani.com/
+[Website](https://www.harshikachandvani.com/) · [LinkedIn](https://linkedin.com/in/harshika-chandvani-83a6b5202) · harshichandvani@gmail.com
 
